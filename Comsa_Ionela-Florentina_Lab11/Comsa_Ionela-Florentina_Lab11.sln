@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{B699667D-9764-412E-AB6F-C58E9D9AD6CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comsa_Ionela_Lab11", "..\Comsa_Ionela_Lab11\Comsa_Ionela_Lab11.csproj", "{5047E070-2C89-4E73-9E4B-7E5AC9D2DEE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B699667D-9764-412E-AB6F-C58E9D9AD6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B699667D-9764-412E-AB6F-C58E9D9AD6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B699667D-9764-412E-AB6F-C58E9D9AD6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B699667D-9764-412E-AB6F-C58E9D9AD6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5047E070-2C89-4E73-9E4B-7E5AC9D2DEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5047E070-2C89-4E73-9E4B-7E5AC9D2DEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5047E070-2C89-4E73-9E4B-7E5AC9D2DEE8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5047E070-2C89-4E73-9E4B-7E5AC9D2DEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5047E070-2C89-4E73-9E4B-7E5AC9D2DEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5047E070-2C89-4E73-9E4B-7E5AC9D2DEE8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E8195E0-1661-4AE6-84CB-F3DFEAD0A774}
+	EndGlobalSection
+EndGlobal
